@@ -1,0 +1,35 @@
+#exclusive{
+background-color: rgb(70, 184, 204);
+background-attachment: fixed;
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+section{
+    margin-top: 80px;
+    overflow: hidden;
+
+}
+a {
+    color: rgb(70, 184, 204);
+}
+#off{
+    background-color: rgb(70, 184, 204);
+}
+#video{
+    background: url(../img/3.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    opacity: 0.9;
+}
+
+#finish{
+    background-color: rgb(70, 184, 204);
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Noto Sans', sans-serif;
+}
